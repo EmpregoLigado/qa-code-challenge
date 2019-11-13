@@ -14,6 +14,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
     * Cadastrar novo candidato:
     
       No site abaixo, existe uma funcionalidade que permite que os nossos candidatos façam o cadastro para se candidatarem às vagas.
+      
       https://www.empregoligado.com.br/
       https://play.google.com/store/apps/details?id=com.el.empregoligado
 
@@ -23,6 +24,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
     * Login candidato:
       
       No site abaixo, existe uma funcionalidade que permite que os nossos candidatos já cadastrados possam fazer login para se     candidatarem às vagas.
+      
       https://www.empregoligado.com.br/
       https://play.google.com/store/apps/details?id=com.el.empregoligado
 
@@ -31,6 +33,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 Obs.: Fique a vontade para fazer essa automação no site ou no nosso APP Android.
 
 
+    
    * Fazer automação da API:
 
 A API abaixo é publica e faz a listagem dos nossos jobs cadastrados.
