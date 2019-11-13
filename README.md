@@ -8,7 +8,9 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 
 ## Sobre o desafio
 
-* Planejamento dos testes: Sua missão é escrever os cenários de teste e definir estratégias com base na necessidade de negócio descrita na história e critérios de aceitação
+* Planejamento dos testes
+
+    * Sua missão é escrever os cenários de teste e definir estratégias com base na necessidade de negócio descrita na história e critérios de aceitação
 
 * Automação dos testes
 
