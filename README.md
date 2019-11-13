@@ -8,30 +8,25 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 
 ## Sobre o desafio
 
-* Planejamento dos testes: Sua missão é escrever os cenários de teste e definir estratégias com base na necessidade de negócio descrita na história e critérios de aceitação;
+* Planejamento dos testes: Sua missão é escrever os cenários de teste e definir estratégias com base na necessidade de negócio descrita na história e critérios de aceitação
 
-*  Automação dos testes
-
+* Automação dos testes
     * Cadastrar novo candidato:
     
- No site abaixo, existe uma funcionalidade que permite que os nossos candidatos façam o cadastro para se candidatarem às vagas.
+      No site abaixo, existe uma funcionalidade que permite que os nossos candidatos façam o cadastro para se candidatarem às vagas.
+      https://www.empregoligado.com.br/
+      https://play.google.com/store/apps/details?id=com.el.empregoligado
 
-https://www.empregoligado.com.br/
-https://play.google.com/store/apps/details?id=com.el.empregoligado
+      Com base nessas informações, crie seus testes automatizados. Faça as validações necessárias.
 
-Com base nessas informações, crie seus testes automatizados. Faça as validações necessárias.
 
-Obs.: Fique a vontade para fazer essa automação no site ou no nosso APP Android.
+    * Login candidato:
+      
+      No site abaixo, existe uma funcionalidade que permite que os nossos candidatos já cadastrados possam fazer login para se     candidatarem às vagas.
+      https://www.empregoligado.com.br/
+      https://play.google.com/store/apps/details?id=com.el.empregoligado
 
-    
-   * Login candidato:
-   
-No site abaixo, existe uma funcionalidade que permite que os nossos candidatos já cadastrados possam fazer login para se candidatarem às vagas.
-
-https://www.empregoligado.com.br/
-https://play.google.com/store/apps/details?id=com.el.empregoligado
-
-Com base nessas informações, crie seus testes automatizados. Faça as validações necessárias.
+      Com base nessas informações, crie seus testes automatizados. Faça as validações necessárias.
 
 Obs.: Fique a vontade para fazer essa automação no site ou no nosso APP Android.
 
