@@ -42,7 +42,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 
       https://apigw.prod.empregoligado.net/applicant/api/v1/public/jobs
 
-      Crie um teste que liste e um teste que mostre os detalhes de um Job através da API. Valide que o post foi criado através do response code e do response body.
+      Crie um teste para listar os Jobs e um teste que mostre os detalhes de um Job utilizando a API. Valide as requisições através do response code e do response body.
 
 ## Pré-requisitos
 
