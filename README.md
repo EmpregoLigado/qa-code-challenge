@@ -35,7 +35,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 
       Com base nessas informações, crie seus testes automatizados. Faça as validações necessárias.
 
-      *Obs.: Fique a vontade para escolher entre o site ou no nosso APP Android para fazer a automação das funcionalidades acima.*
+      **Obs.: Fique a vontade para escolher entre o site ou no nosso APP Android para fazer a automação das funcionalidades acima.**
       
 
     * Fazer automação da API:
