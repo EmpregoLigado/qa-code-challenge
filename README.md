@@ -13,8 +13,8 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 *  Automação dos testes
 
     * Cadastrar novo candidato:
-
-No site abaixo, existe uma funcionalidade que permite que os nossos candidatos façam o cadastro para se candidatarem às vagas.
+    
+ No site abaixo, existe uma funcionalidade que permite que os nossos candidatos façam o cadastro para se candidatarem às vagas.
 
 https://www.empregoligado.com.br/
 https://play.google.com/store/apps/details?id=com.el.empregoligado
@@ -23,8 +23,9 @@ Com base nessas informações, crie seus testes automatizados. Faça as validaç
 
 Obs.: Fique a vontade para fazer essa automação no site ou no nosso APP Android.
 
-    * Login candidato:
-
+    
+   * Login candidato:
+   
 No site abaixo, existe uma funcionalidade que permite que os nossos candidatos já cadastrados possam fazer login para se candidatarem às vagas.
 
 https://www.empregoligado.com.br/
@@ -35,7 +36,7 @@ Com base nessas informações, crie seus testes automatizados. Faça as validaç
 Obs.: Fique a vontade para fazer essa automação no site ou no nosso APP Android.
 
 
-    * Fazer automação da API:
+   * Fazer automação da API:
 
 A API abaixo é publica e faz a listagem dos nossos jobs cadastrados.
 
