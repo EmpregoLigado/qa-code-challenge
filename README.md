@@ -8,19 +8,11 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 
 ## Sobre o desafio
 
-O desafio é composto de 2 tarefas:
+* Planejamento dos testes: Sua missão é escrever os cenários de teste e definir estratégias com base na necessidade de negócio descrita na história e critérios de aceitação;
 
-1 - Fazer o planejamento dos testes, especificando os cenários e estratégias de acordo com a descrição da story e critérios de aceite;
+*  Automação dos testes
 
-2 - Fazer a automação dos testes.
-
-## 1 - Planejamento dos testes
-
-Sua missão é escrever os cenários com base na necessidade de negócio descrita na história e critérios de aceitação.
-
-## 2 - Automação dos testes
-
-## 2.1 - Cadastrar novo candidato
+    * Cadastrar novo candidato:
 
 No site abaixo, existe uma funcionalidade que permite que os nossos candidatos façam o cadastro para se candidatarem às vagas.
 
@@ -31,7 +23,7 @@ Com base nessas informações, crie seus testes automatizados. Faça as validaç
 
 Obs.: Fique a vontade para fazer essa automação no site ou no nosso APP Android.
 
-## 2.2 - Login candidato
+    * Login candidato:
 
 No site abaixo, existe uma funcionalidade que permite que os nossos candidatos já cadastrados possam fazer login para se candidatarem às vagas.
 
@@ -42,8 +34,8 @@ Com base nessas informações, crie seus testes automatizados. Faça as validaç
 
 Obs.: Fique a vontade para fazer essa automação no site ou no nosso APP Android.
 
-## 2.3 - Fazer automação da API
 
+    * Fazer automação da API:
 
 A API abaixo é publica e faz a listagem dos nossos jobs cadastrados.
 
