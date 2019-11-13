@@ -16,6 +16,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
       No site abaixo, existe uma funcionalidade que permite que os nossos candidatos façam o cadastro para se candidatarem às vagas.
       
       https://www.empregoligado.com.br/
+      
       https://play.google.com/store/apps/details?id=com.el.empregoligado
 
       Com base nessas informações, crie seus testes automatizados. Faça as validações necessárias.
@@ -26,21 +27,20 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
       No site abaixo, existe uma funcionalidade que permite que os nossos candidatos já cadastrados possam fazer login para se     candidatarem às vagas.
       
       https://www.empregoligado.com.br/
+      
       https://play.google.com/store/apps/details?id=com.el.empregoligado
 
       Com base nessas informações, crie seus testes automatizados. Faça as validações necessárias.
 
-Obs.: Fique a vontade para fazer essa automação no site ou no nosso APP Android.
+      Obs.: Fique a vontade para fazer essa automação no site ou no nosso APP Android.
 
+    * Fazer automação da API:
 
-    
-   * Fazer automação da API:
+      A API abaixo é publica e faz a listagem dos nossos jobs cadastrados.
 
-A API abaixo é publica e faz a listagem dos nossos jobs cadastrados.
+      https://apigw.prod.empregoligado.net/applicant/api/v1/public/jobs
 
-https://apigw.prod.empregoligado.net/applicant/api/v1/public/jobs
-
-Crie um teste que liste e um teste que mostre os detalhes de um Job através da API. Valide que o post foi criado através do response code e do response body.
+      Crie um teste que liste e um teste que mostre os detalhes de um Job através da API. Valide que o post foi criado através do response code e do response body.
 
 ## Pré-requisitos
 
