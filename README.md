@@ -11,6 +11,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 * Planejamento dos testes: Sua missão é escrever os cenários de teste e definir estratégias com base na necessidade de negócio descrita na história e critérios de aceitação
 
 * Automação dos testes
+
     * Cadastrar novo candidato:
     
       No site abaixo, existe uma funcionalidade que permite que os nossos candidatos façam o cadastro para se candidatarem às vagas.
@@ -32,7 +33,8 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 
       Com base nessas informações, crie seus testes automatizados. Faça as validações necessárias.
 
-      Obs.: Fique a vontade para fazer essa automação no site ou no nosso APP Android.
+      *Obs.: Fique a vontade para escolher entre o site ou no nosso APP Android para fazer a automação das funcionalidades acima.*
+      
 
     * Fazer automação da API:
 
