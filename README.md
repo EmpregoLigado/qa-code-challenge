@@ -58,7 +58,7 @@ Bônus hints:
 
 * Gostamos de page objects;
 * Gostamos de Cucumber;
-* Commits estruturados são bem legais;
+* Commits estruturados são bem legais.
 
 ## O que está sendo avaliado
 
