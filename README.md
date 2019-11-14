@@ -20,7 +20,6 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
       No site abaixo, existe uma funcionalidade que permite que os nossos candidatos façam o cadastro para se candidatarem às vagas.
       
       https://www.empregoligado.com.br/
-      
       https://play.google.com/store/apps/details?id=com.el.empregoligado
 
       Com base nessas informações, crie seus testes automatizados. Faça as validações necessárias.
@@ -31,7 +30,6 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
       No site abaixo, existe uma funcionalidade que permite que os nossos candidatos já cadastrados possam fazer login para se     candidatarem às vagas.
       
       https://www.empregoligado.com.br/
-      
       https://play.google.com/store/apps/details?id=com.el.empregoligado
 
       Com base nessas informações, crie seus testes automatizados. Faça as validações necessárias.
