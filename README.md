@@ -35,14 +35,14 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
          custom a partir de um template, apenas na unidade da qual faz parte;
          07. Novos e antigos recrutadores com perfil Básico devem poder postar uma nova vaga auto ou custom 
          somente a partir de um template, apenas na unidade da qual faz parte;
-         08. Usuário suporte deve poder gerenciar todas as vagas postadas pelas empresas em nossa plataforma;
+         08. Usuários suporte deve poder gerenciar todas as vagas postadas pelas empresas;
          09. Recrutador com perfil Complete deve poder gerenciar todas as vagas postadas na unidade na qual 
          ele faz parte
-         10. Usuário com perfil Intermediário deve poder gerenciar as vagas postadas por ele e todas postadas 
+         10. Usuários Intermediário deve poder gerenciar as vagas postadas por ele e todas postadas 
          na unidade na qual faz parte;
-         11. Usuário com perfil Básico deve poder gerenciar apenas as vagas cadastradas por ele;
+         11. Usuários Básico deve poder gerenciar apenas as vagas cadastradas por ele;
          12. Todas as vagas quando postadas tem status "Pendente/Aberta" e com permissão para edição/cópia;
-         13. Uma vaga nova com status "Pentente/Aberta" só poderá ser "APROVADA" por um usuário do Suporte e 
+         13. As vagas novas com status "Pentente/Aberta" só poderão ser "Aprovadas" por um usuário Suporte e 
          a mesma passará ao status "Aberta/Em andamento" não podendo mais ser editada".
          14. As vagas custom após aprovadas permanecem com status "Aberta" na plataforma, só mudará para 
          "Em andamento" quando existir ao menos uma data de entrevista cadastrada.
