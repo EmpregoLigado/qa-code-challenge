@@ -15,9 +15,12 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
     **Story Name:** Postagem de vaga
     
     **Descrição:**
+    ```
     Eu como usuário Recrutador ou Suporte gostaria de ter permissão de cadastrar uma nova vaga para que seja possível divulgar as novas posições de emprego disponível na empresa.
+    ```
     
     **Critérios de Aceitação:** 
+    
          01. Novos e antigos usuário suporte devem poder postar uma nova vaga auto ou custom completa, em qualquer empresa cadastrada na plataforma;
          02. Novos e antigos usuário suporte devem poder postar uma nova vaga auto ou custom a partir de um template, em qualquer empresa cadastrada na plataforma;
          03. Novos e antigos recrutadores com perfil Complete devem poder postar uma nova vaga auto ou custom completa, em qualquer unidade cadastrada na empresa na qual possui cadastro;
