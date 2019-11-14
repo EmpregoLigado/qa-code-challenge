@@ -12,7 +12,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 
     * Sua missão é escrever os cenários de teste e definir estratégias com base na necessidade de negócio descrita na história e critérios de aceitação abaixo:
     
-    **Story Name:** ```Postagem de vaga`
+    **Story Name:** ```Postagem de vaga``` 
     
     **Descrição:**
     ```
