@@ -25,8 +25,8 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
          01. Novos/antigos usuário suporte devem poder postar novas vagas auto ou custom completas, em
          qualquer empresa cadastrada na plataforma;
          
-         02. Novos e antigos usuário suporte devem poder postar novas vagas auto ou custom a partir de 
-         um template, em qualquer empresa cadastrada na plataforma;
+         02. Novos/antigos usuário suporte devem poder postar novas vagas auto ou custom a partir de um
+         template, em qualquer empresa cadastrada na plataforma;
          
          03. Novos/antigos recrutadores com perfil Complete devem poder postar novas vaga auto ou custom
          completas, em qualquer unidade cadastrada na empresa na qual possui cadastro;
@@ -34,13 +34,13 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
          04. Novos/antigos recrutadores com perfil Complete devem poder postar novas vagas auto ou custom
          a partir de um template, em qualquer unidade cadastrada na empresa na qual possui cadastro;
          
-         05. Novos e antigos recrutadores com perfil Intermdiário devem poder postar novas vagas auto ou 
+         05. Novos/antigos recrutadores com perfil Intermdiário devem poder postar novas vagas auto ou 
          custom apenas na unidade da qual faz parte;
          
-         06. Novos e antigos recrutadores com perfil Intermdiário devem poder postar novas vagas auto ou 
+         06. Novos/antigos recrutadores com perfil Intermdiário devem poder postar novas vagas auto ou 
          custom a partir de um template, apenas na unidade da qual faz parte;
          
-         07. Novos e antigos recrutadores com perfil Básico devem poder postar novas vagas auto ou custom 
+         07. Novos/antigos recrutadores com perfil Básico devem poder postar novas vagas auto ou custom 
          somente a partir de um template, apenas na unidade da qual faz parte;
          
          08. Usuários suporte deve poder gerenciar todas as vagas postadas pelas empresas;
