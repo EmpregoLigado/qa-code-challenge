@@ -104,6 +104,7 @@ O seu teste deve ter um README com os passos necessários para:
 ## Tecnologia
 
 Sinta-se livre para usar a linguagem e as bibliotecas que preferir.
+
 Bônus hints:
 
 * Gostamos de page objects;
