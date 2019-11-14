@@ -11,7 +11,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 * Planejamento dos testes
 
     * Sua missão é escrever os cenários de teste e definir estratégias com base na necessidade de negócio descrita na história e critérios de aceitação abaixo:
-    ```
+    
     **Story Name:** Postagem de vaga
     
     **Descrição:**
@@ -32,7 +32,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
          12. Todas as vagas novas cadastradas devem permancer com status "Pendente/Aberta" e com permissão para edição/cópia;
          13. Uma vaga nova com status "Pentente/Aberta" só poderá ser "APROVADA" por um usuário do Suporte e a mesma passará ao status "Aberta/Em andamento" não podendo mais ser editada".
          14. As vagas custom após aprovadas permanecem com status "Aberta" na plataforma, só mudará para "Em andamento" quando existir ao menos uma data de entrevista cadastrada.
-```
+         
 
 * Automação dos testes **(fique a vontade para escolher entre o site ou no nosso APP Android para fazer a automação das funcionalidades)**
 
