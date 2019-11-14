@@ -21,29 +21,42 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
     
     **Critérios de Aceitação:** 
     
-         01. Novos e antigos usuário suporte devem poder postar uma nova vaga auto ou custom completa, 
-         em qualquer empresa cadastrada na plataforma;
-         02. Novos e antigos usuário suporte devem poder postar uma nova vaga auto ou custom a partir de 
+         01. Novos/antigos usuário suporte devem poder postar novas vagas auto ou custom completas, em
+         qualquer empresa cadastrada na plataforma;
+         
+         02. Novos e antigos usuário suporte devem poder postar novas vagas auto ou custom a partir de 
          um template, em qualquer empresa cadastrada na plataforma;
-         03. Novos e antigos recrutadores com perfil Complete devem poder postar uma nova vaga auto ou 
-         custom completa, em qualquer unidade cadastrada na empresa na qual possui cadastro;
-         04. Novos e antigos recrutadores com perfil Complete devem poder postar uma nova vaga  auto ou 
-         custom a partir de um template, em qualquer unidade cadastrada na empresa na qual possui cadastro;
-         05. Novos e antigos recrutadores com perfil Intermdiário devem poder postar uma nova vaga auto ou 
+         
+         03. Novos/antigos recrutadores com perfil Complete devem poder postar novas vaga auto ou custom
+         completas, em qualquer unidade cadastrada na empresa na qual possui cadastro;
+         
+         04. Novos/antigos recrutadores com perfil Complete devem poder postar novas vagas auto ou custom
+         a partir de um template, em qualquer unidade cadastrada na empresa na qual possui cadastro;
+         
+         05. Novos e antigos recrutadores com perfil Intermdiário devem poder postar novas vagas auto ou 
          custom apenas na unidade da qual faz parte;
-         06. Novos e antigos recrutadores com perfil Intermdiário devem poder postar uma nova vaga auto ou 
+         
+         06. Novos e antigos recrutadores com perfil Intermdiário devem poder postar novas vagas auto ou 
          custom a partir de um template, apenas na unidade da qual faz parte;
-         07. Novos e antigos recrutadores com perfil Básico devem poder postar uma nova vaga auto ou custom 
+         
+         07. Novos e antigos recrutadores com perfil Básico devem poder postar novas vagas auto ou custom 
          somente a partir de um template, apenas na unidade da qual faz parte;
+         
          08. Usuários suporte deve poder gerenciar todas as vagas postadas pelas empresas;
+         
          09. Recrutador com perfil Complete deve poder gerenciar todas as vagas postadas na unidade na qual 
-         ele faz parte
+         ele faz parte;
+         
          10. Usuários Intermediário deve poder gerenciar as vagas postadas por ele e todas postadas 
          na unidade na qual faz parte;
+         
          11. Usuários Básico deve poder gerenciar apenas as vagas cadastradas por ele;
+         
          12. Todas as vagas quando postadas tem status "Pendente/Aberta" e com permissão para edição/cópia;
+         
          13. As vagas novas com status "Pentente/Aberta" só poderão ser "Aprovadas" por um usuário Suporte e 
-         a mesma passará ao status "Aberta/Em andamento" não podendo mais ser editada".
+         a mesma passará ao status "Aberta/Em andamento" não podendo mais ser editada";
+         
          14. As vagas custom após aprovadas permanecem com status "Aberta" na plataforma, só mudará para 
          "Em andamento" quando existir ao menos uma data de entrevista cadastrada.
          
