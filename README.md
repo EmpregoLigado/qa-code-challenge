@@ -12,7 +12,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 
     * Sua missão é escrever os cenários de teste e definir estratégias com base na necessidade de negócio descrita na história e critérios de aceitação abaixo:
     
-    **Story Name:** Postagem de vaga
+    **Story Name:** `Postagem de vaga`
     
     **Descrição:**
     ```
@@ -44,18 +44,17 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
          
          08. Usuários suporte deve poder gerenciar todas as vagas postadas pelas empresas;
          
-         09. Recrutador com perfil Complete deve poder gerenciar todas as vagas postadas na unidade na qual 
-         ele faz parte;
+         09. Recrutador com perfil Complete deve poder gerenciar todas as vagas postadas pela sua empresa;
          
-         10. Usuários Intermediário deve poder gerenciar as vagas postadas por ele e todas postadas 
-         na unidade na qual faz parte;
+         10. Usuários Intermediário deve poder gerenciar as vagas postadas por ele e todas postadas e em
+         sua unidade;
          
          11. Usuários Básico deve poder gerenciar apenas as vagas cadastradas por ele;
          
          12. Todas as vagas quando postadas tem status "Pendente/Aberta" e com permissão para edição/cópia;
          
-         13. As vagas novas com status "Pentente/Aberta" só poderão ser "Aprovadas" por um usuário Suporte e 
-         a mesma passará ao status "Aberta/Em andamento" não podendo mais ser editada";
+         13. As vagas com status "Pentente/Aberta" só poderão ser "Aprovadas" por um usuário Suporte e a
+         mesma passará ao status "Aberta/Em andamento" não podendo mais ser editada";
          
          14. As vagas custom após aprovadas permanecem com status "Aberta" na plataforma, só mudará para 
          "Em andamento" quando existir ao menos uma data de entrevista cadastrada.
