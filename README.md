@@ -16,11 +16,12 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
     
     **Descrição:**
     ```
-    Eu como usuário Recrutador ou Suporte gostaria de ter permissão de cadastrar uma nova vaga para que seja possível divulgar as novas posições de emprego disponível na empresa.
+    Eu como usuário Recrutador ou Suporte gostaria de ter permissão de cadastrar uma nova vaga para que 
+    seja possível divulgar as novas posições de emprego disponível na empresa.
     ```
     
     **Critérios de Aceitação:** 
-    
+ 
          01. Novos/antigos usuário suporte devem poder postar novas vagas auto ou custom completas, em
          qualquer empresa cadastrada na plataforma;
          
@@ -51,7 +52,8 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
          
          11. Usuários Básico deve poder gerenciar apenas as vagas cadastradas por ele;
          
-         12. Todas as vagas quando postadas tem status "Pendente/Aberta" e com permissão para edição/cópia;
+         12. Todas as vagas quando postadas permanecem com status "Pendente/Aberta" até a aprovação e é
+         possível fazer edição dos dadaos e copiar a vaga, para postar outra vaga com informações iguais;
          
          13. As vagas com status "Pentente/Aberta" só poderão ser "Aprovadas" por um usuário Suporte e a
          mesma passará ao status "Aberta/Em andamento" não podendo mais ser editada";
