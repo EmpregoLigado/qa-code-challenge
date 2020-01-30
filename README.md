@@ -120,4 +120,4 @@ Vamos avaliar tudo o que você fizer. Envie o que conseguir realizar, mesmo que 
 ## Para nos enviar seu código, você pode:
 
 * Fazer um fork desse repositório e nos mandar um pull request.
-* Se precisar falar com a gente: engenheria@levee.com.br.
+* Se precisar falar com a gente: engenharia@levee.com.br.
