@@ -94,7 +94,8 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
       https://apigw.prod.empregoligado.net/applicant/api/v1/public/jobs
 
       Crie um teste para listar os Jobs e um teste que mostre os detalhes de um Job, utilizando a API. Valide as requisições através do response code e do response body.
-      Agora gostariamos de analisar um pouco mais seus conhecimentos em automação de serviços, então escolha uma API pública e automatize alguns métodos, exemplo: POST, PATCH, PUT, DELETE, etc. 
+      
+      Agora gostariamos de analisar um pouco mais seus conhecimentos em automação de microsserviços, então escolha uma API pública e automatize alguns métodos, por exemplo: POST, PATCH, PUT, DELETE, etc. 
 
 ## Pré-requisitos
 
