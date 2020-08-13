@@ -2,6 +2,8 @@
 
 Através desse desafio, queremos conhecer suas habildades de escrever cenários e automatizar testes.
 
+Dentro da empresa você terá todo respaldo do PO, e total liberdade para sugestões e questionamentos, então gostaríamos que destacasse se durante a escrita dos seus cenários de testes houve alguma dúvida ou sugestão, e quais direções tomou.
+
 ## Sem tempo para realizar o desafio?
 
 Você pode enviar o link de um pull request com uma contribuição sua para qualquer projeto Open Source ou algum projeto próprio que você acredita que demonstre o seu nível técnico e a qualidade do seu código. Lembre-se que quanto mais código seu pudermos visualizar, melhor será para te avaliarmos. :)
