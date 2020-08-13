@@ -100,7 +100,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 ## Pré-requisitos
 
 O seu teste deve ter um README com os passos necessários para:
-* Escerever o passo a passo para podermos rodar os seus testes.
+* Escrever o passo a passo para podermos rodar os seus testes.
 
 ## Tecnologia
 
